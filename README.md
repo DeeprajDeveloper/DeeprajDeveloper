@@ -11,7 +11,9 @@ Now, I am getting my certification as a UI/UX Developer specializing in UX Desig
 
 ## Project's I've created
 ☑️ Current Portfolio - https://deeprajadhikary.netlify.app/
+
 ☑️ Devi Saptashati - https://devi-saptashati-dev.onrender.com/
+
 ❓ New Portfolio - Coming Soon
 
 ## REACH OUT TO ME !
