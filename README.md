@@ -9,6 +9,11 @@ I'm an **Automation Tester** and **Test Data Analyst** for the past _3 years_ no
 
 Now, I am getting my certification as a UI/UX Developer specializing in UX Design. I make sure to incorporate modernization and simplicity into my design. You can find some recent projects under the Projects section of my website. When I’m offline, I live in Telangana, India with my family.
 
+## Project's I've created
+☑️ Current Portfolio - https://deeprajadhikary.netlify.app/
+☑️ Devi Saptashati - https://devi-saptashati-dev.onrender.com/
+❓ New Portfolio - Coming Soon
+
 ## REACH OUT TO ME !
 📨 Email: deepraj.developer@gmail.com<br/>
 ### Social Media:<br/>
