@@ -1,22 +1,56 @@
-# Hi 👋 , I’m Deepraj Adhikary<br/>
-Currently getting certified in UI/UX Developer specializing in UX Design<br/>
-I Currently work as a Test Data Analyst @Capgemini.<br/>
+<h1 align="left">Hi, I'm Deepraj Adhikary</h1>
+<h3 align="left">Nice to meet you !</h3>
 
-_Other social media profiles and my portfolio website coming soon !!!_
+<p align="left">
+  <a href="https://deeprajadhikary.netlify.app/">My Portfolio</a> ·
+  <a href="https://linkedin.com/in/deepraj-adhikary">LinkedIn</a> ·
+  <a href="mailto:deepraj.developer@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/deepraj-adhikary" target="_blank">LinkedIn</a>
+</p>
 
-## **A LITTLE ABOUT ME & MY PROFESSION**
-I'm an **Automation Tester** and **Test Data Analyst** for the past _3 years_ now. Most of my inspirations and ideas for a well-organized website came to me when I used to test them.  Sometimes the websites are either too outdated or it’s just too cluttered to work with. This made me realize how simple, understandable and easy to use website makes a user’s life easy. It inspires me to finally get certified in UX Design.
+---
 
-Now, I am getting my certification as a UI/UX Developer specializing in UX Design. I make sure to incorporate modernization and simplicity into my design. You can find some recent projects under the Projects section of my website. When I’m offline, I live in Telangana, India with my family.
+<h2 align="left">About Me:</h2>
 
-## Project's I've created
-☑️ Current Portfolio - https://deeprajadhikary.netlify.app/
+Technical business analyst with **~8 years** in IT — Test Data Analyst, Quality Engineer, and Tech BSA — bridging requirements, quality, and implementation. I build tools that make complex workflows easier to understand and test, with a UI/UX mindset shaped by years of testing cluttered products.
 
-☑️ Devi Saptashati - https://devi-saptashati-dev.onrender.com/
+---
 
-❓ New Portfolio - Coming Soon
+<h2 align="left">What am i currently working on ?</h2>
 
-## REACH OUT TO ME !
-📨 Email: deepraj.developer@gmail.com<br/>
-### Social Media:<br/>
-Dribbble: https://dribbble.com/DeeprajAdhikary<br/>
+- 🚀 **Published:** [sql-sp-harness](https://pypi.org/project/sql-sp-harness/) — my first PyPI package · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/)
+- 🔭 **Also building:** [PujaVidhiWiki](https://github.com/DeeprajDeveloper/PujaVidhiWiki) · [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati)
+- 🌱 **Learning:** Business analysis, SQL tooling, full-stack Python
+- 💬 **Ask me about:** Python, Flask, test automation, SQL Server, technical BA work
+- ⚡ **Fun fact:** I speak English, Bengali, Hindi, and Telugu
+
+---
+
+<h2 align="left">Some of my other works:</h2>
+
+| Project | Description | Link |
+|--------|-------------|------|
+| [sql-sp-harness](https://github.com/DeeprajDeveloper/sql-sp-harness) | Python CLI — turn T-SQL stored procedures into safe, runnable debug scripts (DML → `SELECT` previews, no writes to real tables) | [PyPI](https://pypi.org/project/sql-sp-harness/) · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/) |
+| [PujaVidhiWiki](https://github.com/DeeprajDeveloper/PujaVidhiWiki) | Wiki-style app for puja rituals and vidhi documentation | [Repo](https://github.com/DeeprajDeveloper/PujaVidhiWiki) |
+| [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati) | Flask web app for Devi Saptashati content and study | [Repo](https://github.com/DeeprajDeveloper/DeviSaptashati) |
+
+All projects: **[deeprajadhikary.netlify.app](https://deeprajadhikary.netlify.app/)**
+
+---
+
+<h2 align="left">My Technology Stack:</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=PocketBase&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
