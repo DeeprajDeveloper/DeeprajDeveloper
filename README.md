@@ -1,44 +1,45 @@
 <h1 align="left">Hi, I'm Deepraj Adhikary</h1>
-<h3 align="left">Nice to meet you !</h3>
+<h3 align="left">Tech Systems Analyst · Automation Tester · Test Data Analyst · UI/UX Developer</h3>
 
 <p align="left">
-  <a href="https://deeprajadhikary.netlify.app/">My Portfolio</a> ·
+  <a href="https://deeprajadhikary.netlify.app/">Portfolio</a> ·
   <a href="https://linkedin.com/in/deepraj-adhikary">LinkedIn</a> ·
-  <a href="mailto:deepraj.developer@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/deepraj-adhikary" target="_blank">LinkedIn</a>
+  <a href="mailto:deepraj.developer@gmail.com">Email</a>
 </p>
 
 ---
 
-<h2 align="left">About Me:</h2>
+<h2 align="left">About Me</h2>
 
-Technical business analyst with **~8 years** in IT — Test Data Analyst, Quality Engineer, and Tech BSA — bridging requirements, quality, and implementation. I build tools that make complex workflows easier to understand and test, with a UI/UX mindset shaped by years of testing cluttered products.
+Technical business analyst with **~8 years** in IT — test data, QE, and tech BSA — bridging requirements, quality, and implementation. I build tools and websites that make complex workflows easier to understand and test, with a UI/UX mindset shaped by years of testing cluttered products. 📍 Toronto, Canada
 
 ---
 
-<h2 align="left">What am i currently working on ?</h2>
+<h2 align="left">What am I currently working on?</h2>
 
 - 🚀 **Published:** [sql-sp-harness](https://pypi.org/project/sql-sp-harness/) — my first PyPI package · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/)
-- 🔭 **Also building:** [PujaVidhiWiki](https://github.com/DeeprajDeveloper/PujaVidhiWiki) · [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati)
+- 🌐 **New site:** [Taranath Golpo Archive](https://taranather-golpo-archive.vercel.app/) — browse 130+ Taranath Tantrik stories with search, filters, and YouTube links
+- 🔭 **Also building:** [vscode-sql-sp-harness](https://github.com/DeeprajDeveloper/vscode-sql-sp-harness) · [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati)
 - 🌱 **Learning:** Business analysis, SQL tooling, full-stack Python
 - 💬 **Ask me about:** Python, Flask, test automation, SQL Server, technical BA work
 - ⚡ **Fun fact:** I speak English, Bengali, Hindi, and Telugu
 
 ---
 
-<h2 align="left">Some of my other works:</h2>
+<h2 align="left">Featured work</h2>
 
 | Project | Description | Link |
 |--------|-------------|------|
 | [sql-sp-harness](https://github.com/DeeprajDeveloper/sql-sp-harness) | Python CLI — turn T-SQL stored procedures into safe, runnable debug scripts (DML → `SELECT` previews, no writes to real tables) | [PyPI](https://pypi.org/project/sql-sp-harness/) · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/) |
-| [PujaVidhiWiki](https://github.com/DeeprajDeveloper/PujaVidhiWiki) | Wiki-style app for puja rituals and vidhi documentation | [Repo](https://github.com/DeeprajDeveloper/PujaVidhiWiki) |
+| [vscode-sql-sp-harness](https://github.com/DeeprajDeveloper/vscode-sql-sp-harness) | VS Code extension — analyze and generate T-SQL debug harness scripts from your IDE | [Docs](https://deeprajdeveloper.github.io/vscode-sql-sp-harness/) |
+| [taranather-golpo-archive](https://github.com/DeeprajDeveloper/taranather-golpo-archive) | React + Vite archive of Taranath Tantrik stories — search, filter, and listen via YouTube | [Live site](https://taranather-golpo-archive.vercel.app/) |
 | [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati) | Flask web app for Devi Saptashati content and study | [Repo](https://github.com/DeeprajDeveloper/DeviSaptashati) |
 
-All projects: **[deeprajadhikary.netlify.app](https://deeprajadhikary.netlify.app/)**
+More on my [portfolio](https://deeprajadhikary.netlify.app/) and [GitHub](https://github.com/DeeprajDeveloper).
 
 ---
 
-<h2 align="left">My Technology Stack:</h2>
+<h2 align="left">My Technology Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -46,6 +47,7 @@ All projects: **[deeprajadhikary.netlify.app](https://deeprajadhikary.netlify.ap
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
@@ -53,4 +55,3 @@ All projects: **[deeprajadhikary.netlify.app](https://deeprajadhikary.netlify.ap
 <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=PocketBase&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
-
