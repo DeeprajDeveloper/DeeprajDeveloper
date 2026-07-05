@@ -17,9 +17,10 @@ Technical business analyst with **~8 years** in IT — test data, QE, and tech B
 
 <h2 align="left">What am I currently working on?</h2>
 
+- 🎨 **Live now:** [HueType](https://huetype.dev/) — build custom color and font combos with live page previews, WCAG checks, and export to CSS / Tailwind
 - 🚀 **Published:** [sql-sp-harness](https://pypi.org/project/sql-sp-harness/) — my first PyPI package · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/)
-- 🌐 **New site:** [Taranath Golpo Archive](https://taranather-golpo-archive.vercel.app/) — browse 130+ Taranath Tantrik stories with search, filters, and YouTube links
-- 🔭 **Also building:** [vscode-sql-sp-harness](https://github.com/DeeprajDeveloper/vscode-sql-sp-harness) · [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati)
+- 🌐 **Also live:** [Taranath Golpo Archive](https://taranather-golpo-archive.vercel.app/) — browse 130+ Taranath Tantrik stories with search, filters, and YouTube links
+- 🔭 **Building:** [vscode-sql-sp-harness](https://github.com/DeeprajDeveloper/vscode-sql-sp-harness) · [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati)
 - 🌱 **Learning:** Business analysis, SQL tooling, full-stack Python
 - 💬 **Ask me about:** Python, Flask, test automation, SQL Server, technical BA work
 - ⚡ **Fun fact:** I speak English, Bengali, Hindi, and Telugu
@@ -30,6 +31,7 @@ Technical business analyst with **~8 years** in IT — test data, QE, and tech B
 
 | Project | Description | Link |
 |--------|-------------|------|
+| [HueType](https://github.com/DeeprajDeveloper/ProjectHueType) | Pick palettes and font pairings — preview on realistic mockups, check WCAG contrast, export CSS variables or Tailwind config | [Live](https://huetype.dev/) |
 | [sql-sp-harness](https://github.com/DeeprajDeveloper/sql-sp-harness) | Python CLI — turn T-SQL stored procedures into safe, runnable debug scripts (DML → `SELECT` previews, no writes to real tables) | [PyPI](https://pypi.org/project/sql-sp-harness/) · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/) |
 | [vscode-sql-sp-harness](https://github.com/DeeprajDeveloper/vscode-sql-sp-harness) | VS Code extension — analyze and generate T-SQL debug harness scripts from your IDE | [Docs](https://deeprajdeveloper.github.io/vscode-sql-sp-harness/) |
 | [taranather-golpo-archive](https://github.com/DeeprajDeveloper/taranather-golpo-archive) | React + Vite archive of Taranath Tantrik stories — search, filter, and listen via YouTube | [Live site](https://taranather-golpo-archive.vercel.app/) |
