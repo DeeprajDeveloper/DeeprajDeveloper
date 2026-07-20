@@ -2,7 +2,7 @@
 <h3 align="left">Tech Systems Analyst · Automation Tester · Test Data Analyst · UI/UX Developer</h3>
 
 <p align="left">
-  <a href="https://deeprajadhikary.netlify.app/">Portfolio</a> ·
+  <a href="https://deepraj-adhikary-portfolio.vercel.app/">Portfolio</a> ·
   <a href="https://linkedin.com/in/deepraj-adhikary">LinkedIn</a> ·
   <a href="mailto:deepraj.developer@gmail.com">Email</a>
 </p>
@@ -17,12 +17,12 @@ Technical business analyst with **~8 years** in IT — test data, QE, and tech B
 
 <h2 align="left">What am I currently working on?</h2>
 
+- 🧩 **Just released:** [SQL Debug Harness](https://marketplace.visualstudio.com/items?itemName=DeeprajAdhikary.sql-debug-harness) — VS Code extension to analyze and generate safe T-SQL debug scripts (no Python required) · [Docs](https://deeprajdeveloper.github.io/vscode-sql-debug-harness/)
 - 🎨 **Live now:** [HueType](https://huetype.dev/) — build custom color and font combos with live page previews, WCAG checks, and export to CSS / Tailwind
-- 🚀 **Published:** [sql-sp-harness](https://pypi.org/project/sql-sp-harness/) — my first PyPI package · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/)
+- 🚀 **Published:** [sql-sp-harness](https://pypi.org/project/sql-sp-harness/) — PyPI package for T-SQL debug harness generation · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/)
 - 🌐 **Also live:** [Taranath Golpo Archive](https://taranather-golpo-archive.vercel.app/) — browse 130+ Taranath Tantrik stories with search, filters, and YouTube links
-- 🔭 **Building:** [vscode-sql-sp-harness](https://github.com/DeeprajDeveloper/vscode-sql-sp-harness) · [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati)
 - 🌱 **Learning:** Business analysis, SQL tooling, full-stack Python
-- 💬 **Ask me about:** Python, Flask, test automation, SQL Server, technical BA work
+- 💬 **Ask me about:** Python, React, test automation, SQL Server, technical BA work
 - ⚡ **Fun fact:** I speak English, Bengali, Hindi, and Telugu
 
 ---
@@ -31,13 +31,13 @@ Technical business analyst with **~8 years** in IT — test data, QE, and tech B
 
 | Project | Description | Link |
 |--------|-------------|------|
+| [SQL Debug Harness](https://github.com/DeeprajDeveloper/vscode-sql-debug-harness) | VS Code extension — statically rewrite T-SQL stored procedures into safe debug scripts (DML → `SELECT` previews, no Python required) | [Marketplace](https://marketplace.visualstudio.com/items?itemName=DeeprajAdhikary.sql-debug-harness) · [Docs](https://deeprajdeveloper.github.io/vscode-sql-debug-harness/) |
 | [HueType](https://github.com/DeeprajDeveloper/ProjectHueType) | Pick palettes and font pairings — preview on realistic mockups, check WCAG contrast, export CSS variables or Tailwind config | [Live](https://huetype.dev/) |
-| [sql-sp-harness](https://github.com/DeeprajDeveloper/sql-sp-harness) | Python CLI — turn T-SQL stored procedures into safe, runnable debug scripts (DML → `SELECT` previews, no writes to real tables) | [PyPI](https://pypi.org/project/sql-sp-harness/) · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/) |
-| [vscode-sql-sp-harness](https://github.com/DeeprajDeveloper/vscode-sql-sp-harness) | VS Code extension — analyze and generate T-SQL debug harness scripts from your IDE | [Docs](https://deeprajdeveloper.github.io/vscode-sql-sp-harness/) |
+| [sql-sp-harness](https://github.com/DeeprajDeveloper/sql-sp-harness) | Python CLI — turn T-SQL stored procedures into safe, runnable debug scripts | [PyPI](https://pypi.org/project/sql-sp-harness/) · [Docs](https://deeprajdeveloper.github.io/sql-sp-harness/) |
 | [taranather-golpo-archive](https://github.com/DeeprajDeveloper/taranather-golpo-archive) | React + Vite archive of Taranath Tantrik stories — search, filter, and listen via YouTube | [Live site](https://taranather-golpo-archive.vercel.app/) |
 | [DeviSaptashati](https://github.com/DeeprajDeveloper/DeviSaptashati) | Flask web app for Devi Saptashati content and study | [Repo](https://github.com/DeeprajDeveloper/DeviSaptashati) |
 
-More on my [portfolio](https://deeprajadhikary.netlify.app/) and [GitHub](https://github.com/DeeprajDeveloper).
+More on my [portfolio](https://deepraj-adhikary-portfolio.vercel.app/) and [GitHub](https://github.com/DeeprajDeveloper).
 
 ---
 
@@ -46,6 +46,7 @@ More on my [portfolio](https://deeprajadhikary.netlify.app/) and [GitHub](https:
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
