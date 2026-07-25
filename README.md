@@ -11,7 +11,7 @@
 
 <h2 align="center">Who Am I ?</h2>
 
-<p align="center">Business Systems Analyst with **9 years** in IT. Experties in Test data Engineering, Quality Assurance Testing, and Business Systems Analyst. </p>
+<p align="center">Business Systems Analyst with <b>9 years</b> in IT. Experties in Test data Engineering, Quality Assurance Testing, and Business Systems Analyst. </p>
 <p align="center">Based in 📍 Toronto, Canada</p>
   
 <p align="center">
